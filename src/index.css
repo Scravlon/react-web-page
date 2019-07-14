@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.skill-container{
+  float: center;
+    align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 250px;
+
+
+}
+
+.skillText{
+  align-items: left;
+  background-color: #EEEEEE;
+  font-family: "Lucida Console";
+}

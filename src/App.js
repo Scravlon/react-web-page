@@ -3,7 +3,8 @@ import './App.css';
 import Home from './Home';
 import Skill from './Skills';
 import About from './AboutMe';
-
+import Contact from './Contact';
+import CP from './copyright';
 
 
 function App() {
@@ -12,13 +13,20 @@ function App() {
       <div className="App">
         <header className="App-header">
         <Home />
+
         </header>
       </div>
-      <div class="about-container">
-      <About />
+      <div className="about-container">
+        <About />
       </div>
-      <div class="skill-container">
-      <Skill />
+      <div className="skill-container">
+        <Skill />
+      </div>
+      <div className="contact-container">
+        <Contact />
+      </div>
+      <div className="copyright-container">
+      <CP/>
       </div>
     </div>
   );

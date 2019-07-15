@@ -17,13 +17,26 @@ code {
     align-items: center;
   display: flex;
   justify-content: center;
-  height: 250px;
-
-
+  min-height: 65vh;
+  background-color: #282c34;
+  color: #00FF00;
 }
 
+.contact-container{
+  float: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.copyright-container{
+  float: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
 .skillText{
   align-items: left;
-  background-color: #EEEEEE;
+  background-color: #282c99;
   font-family: "Lucida Console";
 }

@@ -8,10 +8,10 @@ function Skill() {
       <h1>
       Skills
       </h1>
+      <Typist avgTypingDelay={1} stdTypingDelay={10} cursor={{show: true, blink: true,element: '|',hideWhenDone: true,hideWhenDoneDelay: 2000}}>
 
         <p className="skillText">
           public class Skill &#123; <br/>
-          <Typist avgTypingDelay={1} stdTypingDelay={10} cursor={{show: true, blink: true,element: '|',hideWhenDone: true,hideWhenDoneDelay: 2000}}>
 
           &nbsp; private String[] coding = &#123;"<font color="red">Assembly language</font>", "<font color="red">C/C#/C++</font>", "<font color="red">CSS</font>", "<font color="red">HTML</font>", "<font color="red">Java</font>", "<font color="red">JavaScript</font>", "<font color="red">Kotlin</font>", "<font color="red">Python</font>", "<font color="red">React</font>", "<font color="red">Solidity</font>", "<font color="red">Ocaml</font>" &#125;; <br/>
           &nbsp; private String[] mostProfficient = &#123;"<font color="red">C++</font>", "<font color="red">Java</font>"&#125;; <br/>
@@ -24,10 +24,10 @@ function Skill() {
           &nbsp; &nbsp;    learnNewSkill();<br/>
           &nbsp;&nbsp;&#125;<br/>
            &nbsp;&#125;<br/>
-           </Typist>
 
           &#125;<br/>
         </p>
+        </Typist>
 
       </header>
     </div>

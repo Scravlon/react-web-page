@@ -8,7 +8,7 @@ function HOME() {
         <h1>
           Kevin Yong
         </h1>
-        <p>Android Developer intern at Pitney Bowes Inc. Shelton, CT</p>
+        <p>Android Developer</p>
         <p>B.S. Computer Science - University at Buffalo (SUNY)</p>
       </header>
     </div>

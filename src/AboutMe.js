@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutMe.css';
-import mepic from './mepic.jpg';
+import mepic from './images/mepic.jpg';
 
 function About() {
   return (

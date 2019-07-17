@@ -17,7 +17,7 @@ function Portf() {
        <div className="container-fluid p-0">
          <div className="row no-gutters">
            <div className="col-lg-4 col-sm-6">
-             <a className="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+             <a className="portfolio-box" href="https://github.com/Scravlon/GreenLight">
               <img className="img-fluid" src={greenlight} alt="me" width="225px" height="300px" />
                <div className="portfolio-box-caption">
                  <div className="project-category">
@@ -38,7 +38,7 @@ function Portf() {
                    Unity3D Game
                  </div>
                  <div className="project-name">
-                   The HorizonGreenLight
+                   The Horizon
                  </div>
                </div>
              </a>
@@ -86,7 +86,7 @@ function Portf() {
              </a>
            </div>
            <div className="col-lg-4 col-sm-6">
-             <a className="portfolio-box" href="https://github.com/Scravlon/The-Horizon">
+             <a className="portfolio-box" href="https://github.com/Scravlon/Periodically-Falls">
              <img className="img-fluid"src={period} alt="me" width="225px" height="300px" />
 
                <div className="portfolio-box-caption p-3">
@@ -94,7 +94,7 @@ function Portf() {
                    Unity3D Game
                  </div>
                  <div className="project-name">
-                   The Horizon
+                   Periodically Falls
                  </div>
                </div>
              </a>

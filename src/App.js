@@ -8,27 +8,31 @@ import About from './AboutMe';
 import Contact from './Contact';
 import Portf from './Portf';
 import CP from './copyright';
+import Taskbar from './taskbar';
+
 
 
 function App() {
   return (
     <div className="rootContainer">
-      <div className="App">
+      <div id="home" className="App">
+        <Taskbar />
+
         <header className="App-header">
         <Home />
 
         </header>
       </div>
-      <div className="about-container">
+      <div id="about" className="about-container">
         <About />
       </div>
-      <div className="skill-container">
+      <div id="skill" className="skill-container">
         <Skill />
       </div>
-      <div className="port-container">
+      <div id="portfolio" className="port-container">
       <Portf/>
       </div>
-      <div className="contact-container">
+      <div id="contact" className="contact-container">
 
         <Contact />
       </div>

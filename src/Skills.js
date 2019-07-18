@@ -8,7 +8,7 @@ function Skill() {
       <h1>
       Skills
       </h1>
-      <Typist avgTypingDelay={1} stdTypingDelay={10} cursor={{show: true, blink: true,element: '|',hideWhenDone: true,hideWhenDoneDelay: 2000}}>
+      <Typist avgTypingDelay={1} stdTypingDelay={18} cursor={{show: true, blink: true,element: '|',hideWhenDone: true,hideWhenDoneDelay: 2000}}>
 
         <p className="skillText">
           public class Skill &#123; <br/>
@@ -20,7 +20,7 @@ function Skill() {
           &nbsp; private Map&#60;String, Integer&#62; languages = ImmutableMap.of("<font color="red">Chinese</font>", 5, "<font color="red">English</font>", 4, "<font color="red">Malay</font>", 4); //Profficiency 1-5<br/><br/>
 
           public Skill&#123;<br/>
-          &nbsp;   while(true)&#123;<br/>
+          &nbsp;   while(<font color="red">true</font>)&#123;<br/>
           &nbsp; &nbsp;    learnNewSkill();<br/>
           &nbsp;&nbsp;&#125;<br/>
            &nbsp;&#125;<br/>

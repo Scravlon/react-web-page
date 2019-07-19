@@ -4,10 +4,8 @@ import React from 'react';
 function task() {
   return (
     <nav className="navBar">
-
-
-    <ul>
-       <li><a className="lia" href="#home">Home</a></li>
+    <ul id="ulMenu">
+       <li><a className="active lia" href="#home">Home</a></li>
        <li><a className="lia" href="#about">About</a></li>
        <li><a className="lia" href="#skill">Skills</a></li>
        <li><a className="lia" href="#portfolio">Projects</a></li>

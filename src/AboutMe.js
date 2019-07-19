@@ -34,6 +34,7 @@ function About() {
           </tr>
           </tbody>
         </table>
+    
       </div>
     </div>
   );

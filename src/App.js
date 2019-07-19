@@ -11,7 +11,6 @@ import CP from './copyright';
 import Taskbar from './taskbar';
 
 
-
 function App() {
   return (
     <div className="rootContainer">

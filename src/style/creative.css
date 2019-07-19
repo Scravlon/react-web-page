@@ -24,11 +24,12 @@
   color:#333333;
 }
 
-
  html {
   scroll-behavior: smooth;
 }
+
  .navBar{
+   z-index: 1030;
    position: fixed;
    width: 100%;
      transition: background-color 0.2s ease-out;
@@ -66,13 +67,7 @@
   padding-top: 1rem !important;
 }
 
- .fixed-top {
-   position: fixed;
-   top: 0;
-   right: 0;
-   left: 0;
-   z-index: 1030;
- }
+
  .container {
     min-width: 992px !important;
   }

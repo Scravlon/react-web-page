@@ -11,7 +11,6 @@ function task() {
        <li><a className="lia" href="#portfolio">Projects</a></li>
        <li><a className="lia" href="#contact">Contact</a></li>
      </ul>
-
   </nav>
   );
 }

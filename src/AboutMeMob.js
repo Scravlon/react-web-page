@@ -1,6 +1,12 @@
 import React from 'react';
 import './AboutMe.css';
 import mepic from './images/mepic.jpg';
+import resume from './docs/kevin-resume.pdf';
+import { FaGithubSquare } from 'react-icons/fa';
+import { FaTwitter } from 'react-icons/fa';
+import { FaLinkedinIn } from 'react-icons/fa';
+import { FaGooglePlay } from 'react-icons/fa';
+import { FaMailBulk } from 'react-icons/fa';
 
 function About() {
   return (
@@ -11,6 +17,27 @@ function About() {
         </h1>
         <hr width="5%" color="black"/>
         <img src={mepic} alt="me" width="225px" height="300px" />
+        <p>
+          <a href="https://twitter.com/Scravlon">
+            <FaTwitter/>
+          </a>&nbsp;
+          <a href="https://github.com/Scravlon">
+            <FaGithubSquare/>
+          </a>&nbsp;
+          <a href="https://www.linkedin.com/in/kevin-yong-34363270/">
+            <FaLinkedinIn/>
+          </a>&nbsp;
+          <a href="https://play.google.com/store/apps/developer?id=Scravlon">
+            <FaGooglePlay/>
+          </a>&nbsp;
+          <a href="mailto:haokokyong@gmail.com">
+            <FaMailBulk/>
+          </a>
+          <br/>
+          <a href={resume}><button className="resumeBut">My Resume</button></a><br/>
+        </p>
+          <p>Email: haokokyong10@gmail.com</p>
+
         <h2>
           Education
         </h2>

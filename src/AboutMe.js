@@ -40,7 +40,8 @@ function About() {
               </a>
               <br/>
               <a href={resume}><button className="resumeBut">My Resume</button></a>
-            </p>
+          </p>
+          <p>Email: haokokyong10@gmail.com</p>
           </div>
       </th>
 

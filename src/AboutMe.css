@@ -9,11 +9,33 @@
   color: black;
 }
 
-table { width: 70%;
+table { width: 90%;
+
         }
 
+.leftDiv{
+  font-family:"inconsolata";min-width: 10%;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-right: 1px solid black;
+}
+.rightDiv{
+  font-family:"inconsolata";width: 80%;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;
+}
 .tg  {border-collapse:collapse;border-spacing:0;border:none;}
 .tg td{font-family:"inconsolata";font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg th{font-family:"inconsolata";font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+
+.resumeBut {
+  font-size:18px;
+  font-family:"inconsolata";
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  background-color: white;
+ color: black;
+ border: 2px solid #282c34; /* Green */
+}
+
+.resumeBut:hover {
+  background-color: #282c34; /* Green */
+  color: white;
+}

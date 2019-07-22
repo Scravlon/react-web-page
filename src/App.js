@@ -5,6 +5,8 @@ import './style/creative.css';
 import Home from './Home';
 import Skill from './Skills';
 import About from './AboutMe';
+import About1 from './AboutMeMob';
+
 import Contact from './Contact';
 import Portf from './Portf';
 import CP from './copyright';
@@ -23,7 +25,12 @@ function App() {
         </header>
       </div>
       <div id="about" className="about-container">
-        <About />
+        <div className="aboutContainer">
+          <About />
+        </div>
+        <div className="aboutContainer1">
+          <About1 />
+        </div>
       </div>
       <div id="skill" className="skill-container">
         <Skill />

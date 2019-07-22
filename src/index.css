@@ -11,7 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
+.about-container{
+  
+}
 .skill-container{
   float: center;
     align-items: center;

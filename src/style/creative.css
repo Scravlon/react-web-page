@@ -107,12 +107,22 @@
   margin-right: 0;
   margin-left: 0;
 }
+.aboutContainer1{
+display:none;
+}
 @media (max-width: 576px) {
 
   li a {
     color: white;
     text-align: center;
     padding: 14px 12px;
+  }
+
+  .aboutContainer {
+display:none;  }
+
+  .aboutContainer1{
+    display: block;
   }
 }
 

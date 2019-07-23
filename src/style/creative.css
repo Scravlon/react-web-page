@@ -10,6 +10,14 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+ @font-face {font-family: "Lucida Console";
+     src: url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.eot");
+     src: url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.eot?#iefix") format("embedded-opentype"),
+     url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.woff2") format("woff2"),
+     url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.woff") format("woff"),
+     url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.ttf") format("truetype"),
+     url("//db.onlinewebfonts.com/t/ed07815509f9c255b6e0f66c7910eb97.svg#Lucida Console") format("svg");
+ }
 
  .scroll {
    background-color: rgba(240, 240, 240, 0.95);

@@ -9,11 +9,11 @@ import nfclogo from './images/nfclogo.png';
 function Portf() {
   return (
     <div>
-      <table className="tab" cellpadding="0" border="0" align="center" cellspacing="0">
+      <table className="tab" cellPadding="0" border="0" align="center" cellSpacing="0">
         <tbody>
 
           <tr>
-            <td colspan="2">
+            <td colSpan="2">
               <h3><strong>Projects</strong></h3>
               <p>scravlon@scravlon-web:~$ ls projects</p>
             </td>

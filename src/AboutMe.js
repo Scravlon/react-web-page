@@ -53,20 +53,12 @@ function About() {
           <table className="tg">
             <tbody>
               <tr>
-                <th className="tg-0pky"><strong>University at Buffalo, SUNY (Transfer)</strong></th>
+                <th className="tg-0pky"><strong>University at Buffalo, SUNY</strong></th>
                 <th className="tg-dvpl"><strong>Expected Graduate: Winter 2019</strong></th>
               </tr>
               <tr>
                 <td className="tg-0pky">Bachelor of Science, Computer Science</td>
                 <td className="tg-dvpl">Dean's List | GPA: 3.8/4.0</td>
-              </tr>
-              <tr>
-                <th className="tg-0pky"><strong>Inti International College Subang Malaysia</strong></th>
-                <th className="tg-dvpl"><strong>Spring 2016 - Summer 2017</strong></th>
-              </tr>
-              <tr>
-                <td className="tg-0pky">Bachelor of Science, Computer Science</td>
-                <td className="tg-dvpl">Dean's List | GPA: 3.6/4.0</td>
               </tr>
             </tbody>
           </table>

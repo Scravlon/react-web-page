@@ -114,11 +114,15 @@ display:none;
 display:none;
 }
 @media (max-width: 576px) {
+  .lia{
+    font-family: "Lucida Console";
+    font-size: 16px;
+  }
 
   li a {
     color: white;
     text-align: center;
-    padding: 14px 12px;
+    padding: 12px 7px;
   }
     .portContainer{
   display:none;  }

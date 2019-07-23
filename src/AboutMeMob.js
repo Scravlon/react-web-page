@@ -16,7 +16,7 @@ function About() {
           About Me
         </h1>
         <hr width="5%" color="black"/>
-        <img src={mepic} alt="me" width="225px" height="300px" />
+        <img src={mepic} alt="me" width="250px" height="290px" />
         <p>
           <a href="https://twitter.com/Scravlon">
             <FaTwitter/>

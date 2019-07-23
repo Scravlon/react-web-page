@@ -9,13 +9,13 @@
   color: black;
 }
 
-table { width: 90%;}
+table { width: 98%;}
 
 .leftDiv{
-  font-family:"inconsolata";min-width: 10%;font-size:18px;font-weight:normal;padding:10px 5px;overflow:hidden;word-break:normal;border-right: 1px solid black;
+  font-family:"inconsolata";min-width: 25%;font-size:18px;font-weight:normal;padding:10px 5px;overflow:hidden;word-break:normal;border-right: 1px solid black;
 }
 .rightDiv{
-  font-family:"inconsolata";width: 80%;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;
+  font-family:"inconsolata";width: 75%;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;
 }
 .tg  {border-collapse:collapse;border-spacing:0;border:none;}
 .tg td{font-family:"inconsolata";font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}

@@ -21,7 +21,7 @@ function About() {
           <div>
             <h2>About Me</h2>
             <p>Android Developer</p>
-            <img src={mepic} alt="me" width="225px" height="300px" />
+            <img src={mepic} alt="me" width="250px" height="290px" />
             <p>
               <a href="https://twitter.com/Scravlon">
                 <FaTwitter/>

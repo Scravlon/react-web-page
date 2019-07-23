@@ -7,8 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family: "Lucida Console",
     monospace;
 }
 .about-container{

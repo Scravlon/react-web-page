@@ -12,8 +12,23 @@ code {
     monospace;
 }
 .about-container{
-  
+
 }
+.tab{
+  width: 100%;
+      table-layout:fixed;
+      background-color: #282c5B;
+      font-family: "Lucida Console";
+      color: #00FF00;
+}
+
+.tab img{
+  max-width:100%;
+   height:auto;
+   vertical-align: middle;
+}
+
+
 .skill-container{
   float: center;
     align-items: center;
@@ -22,8 +37,15 @@ code {
   min-height: 65vh;
   background-color: #282c34;
   color: #00FF00;
+}
 
 
+
+.leftDivPort{
+  width: 100%;;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;text-align: right;
+}
+.rightDivPort{
+  width: 100%;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;
 }
 
 .port-container{

@@ -9,9 +9,7 @@
   color: black;
 }
 
-table { width: 90%;
-
-        }
+table { width: 90%;}
 
 .leftDiv{
   font-family:"inconsolata";min-width: 10%;font-size:18px;font-weight:normal;padding:10px 5px;overflow:hidden;word-break:normal;border-right: 1px solid black;

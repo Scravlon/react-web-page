@@ -44,8 +44,8 @@ function About() {
         <table className="tg">
         <tbody>
           <tr>
-            <th className="tg-0pky"><strong>University at Buffalo, SUNY (Transfer)</strong></th>
-            <th className="tg-dvpl"><strong>Expected Graduate: Winter 2019</strong></th>
+            <td className="tg-0pky"><strong>University at Buffalo, SUNY (Transfer)</strong></td>
+            <td className="tg-dvpl"><strong>Expected Graduate: Winter 2019</strong></td>
           </tr>
           <tr>
             <td className="tg-0pky">Bachelor of Science, Computer Science</td>
@@ -68,8 +68,8 @@ function About() {
                 <table className="tg">
                 <tbody>
                   <tr>
-                    <th className="tg-0pky"><strong>Pitney Bowes Inc.</strong></th>
-                    <th className="tg-dvpl"><strong>June 2019 - August 2019</strong></th>
+                    <td className="tg-0pky"><strong>Pitney Bowes Inc.</strong></td>
+                    <td className="tg-dvpl"><strong>June 2019 - August 2019</strong></td>
                   </tr>
                   <tr>
                     <td className="tg-0pky">Android Developer Intern</td>

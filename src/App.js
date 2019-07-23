@@ -9,6 +9,8 @@ import About1 from './AboutMeMob';
 
 import Contact from './Contact';
 import Portf from './Portf';
+import Portf1 from './PortfMob';
+
 import CP from './copyright';
 import Taskbar from './taskbar';
 
@@ -36,8 +38,15 @@ function App() {
         <Skill />
       </div>
       <div id="portfolio" className="port-container">
-      <Portf/>
+        <div className="portContainer">
+          <Portf />
+        </div>
+        <div id="portfolio" className="portContainer1">
+          <Portf1 />
+
+        </div>
       </div>
+
       <div id="contact" className="contact-container">
 
         <Contact />

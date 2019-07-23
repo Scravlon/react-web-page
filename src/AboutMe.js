@@ -61,8 +61,8 @@ function About() {
                 <td className="tg-dvpl">Dean's List | GPA: 3.8/4.0</td>
               </tr>
               <tr>
-                <td className="tg-0pky"><strong>Inti International College Subang Malaysia</strong></td>
-                <td className="tg-dvpl"><strong>Spring 2016 - Summer 2017</strong></td>
+                <th className="tg-0pky"><strong>Inti International College Subang Malaysia</strong></th>
+                <th className="tg-dvpl"><strong>Spring 2016 - Summer 2017</strong></th>
               </tr>
               <tr>
                 <td className="tg-0pky">Bachelor of Science, Computer Science</td>

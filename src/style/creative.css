@@ -110,6 +110,9 @@
 .aboutContainer1{
 display:none;
 }
+.portContainer1{
+display:none;
+}
 @media (max-width: 576px) {
 
   li a {
@@ -117,7 +120,12 @@ display:none;
     text-align: center;
     padding: 14px 12px;
   }
+    .portContainer{
+  display:none;  }
 
+    .portContainer1{
+      display: block;
+    }
   .aboutContainer {
 display:none;  }
 

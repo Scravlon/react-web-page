@@ -14,8 +14,8 @@ function Portf() {
 
           <tr>
             <td colSpan="2">
-              <h3><strong>Projects</strong></h3>
-              <p>scravlon@scravlon-web:~$ ls projects</p>
+              <h1><strong>Projects</strong></h1>
+              <h5>scravlon@scravlon-web:~$ ls projects</h5>
             </td>
 
           </tr>

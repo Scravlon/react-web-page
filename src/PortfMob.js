@@ -11,6 +11,14 @@ function Portf() {
     <div>
       <table className="tab" cellpadding="0" border="0" align="center" cellspacing="0">
         <tbody>
+
+          <tr>
+            <td colspan="2">
+              <h3><strong>Projects</strong></h3>
+              <p>scravlon@scravlon-web:~$ ls projects</p>
+            </td>
+
+          </tr>
           <tr>
             <td>
               <div className="leftDivPort">
@@ -21,10 +29,9 @@ function Portf() {
             </td>
             <td>
               <div className="rightDivPort">
-                <div>
+                <div className="portModText">
                    <font color="red">Android App</font>
-                </div>
-                <div>
+                <br/>
                   GreenLight
                 </div>
               </div>
@@ -34,10 +41,9 @@ function Portf() {
           <tr>
             <td>
               <div className="leftDivPort">
-                <div>
+                <div className="portModText">
                    <font color="red">Unity3D Game</font>
-                </div>
-                <div>
+                     <br/>
                   The Horizon
                 </div>
               </div>
@@ -61,10 +67,10 @@ function Portf() {
             </td>
             <td>
               <div className="rightDivPort">
-                <div>
+                <div className="portModText">
                   <font color="red">Android App</font>
-                </div>
-                <div>
+                    <br/>
+
                   SplitMe
                 </div>
             </div>
@@ -75,10 +81,9 @@ function Portf() {
 
             <td>
               <div className="leftDivPort">
-                <div>
+                <div className="portModText">
                    <font color="red">Unity3D Game</font>
-                </div>
-                <div>
+                <br/>
                   Snooze
                 </div>
             </div>
@@ -103,10 +108,9 @@ function Portf() {
             <td>
               <div className="rightDivPort">
 
-              <div>
+                <div className="portModText">
                  <font color="red">Android App</font>
-              </div>
-              <div>
+              <br/>
                 CreditCardWallet
               </div>
             </div>
@@ -116,10 +120,9 @@ function Portf() {
           <tr>
             <td>
               <div className="leftDivPort">
-              <div>
+                <div className="portModText">
                  <font color="red">Unity3D Game</font>
-              </div>
-              <div>
+              <br/>
                 Periodically Falls
               </div>
             </div>
@@ -132,9 +135,6 @@ function Portf() {
               </div>
             </td>
           </tr>
-
-
-
         </tbody>
       </table>
     </div>

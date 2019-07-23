@@ -28,6 +28,9 @@ code {
    vertical-align: middle;
 }
 
+.portModText{
+  margin: 10px;
+}
 
 .skill-container{
   float: center;
@@ -38,7 +41,9 @@ code {
   background-color: #282c34;
   color: #00FF00;
 }
-
+.tab p{
+  font-size: 12px;
+}
 
 
 .leftDivPort{

@@ -38,45 +38,30 @@ function About() {
         </p>
           <p>Email: haokokyong10@gmail.com</p>
 
-        <h2>
-          Education
-        </h2>
-        <table className="tg">
-        <tbody>
-          <tr>
-            <td className="tg-0pky"><strong>University at Buffalo, SUNY</strong></td>
-            <td className="tg-dvpl"><strong>Expected Graduate: Winter 2019</strong></td>
-          </tr>
-          <tr>
-            <td className="tg-0pky">Bachelor of Science, Computer Science</td>
-            <td className="tg-dvpl">Dean's List | GPA: 3.8/4.0</td>
-          </tr>
-          </tbody>
-        </table>
+        <h3>
+          <strong>Education</strong>
+        </h3>
+        <p>
+          <strong>University at Buffalo, SUNY</strong><br/>
+          <strong>Bachelor of Science, Computer Science</strong><br/>
+          Expected Graduate: Winter 2019<br/>
+          Dean's List | GPA: 3.8/4.0
+        </p>
 
-                <h2>
+                <h3>
                   Experience
-                </h2>
-                <table className="tg">
-                <tbody>
-                  <tr>
-                    <td className="tg-0pky"><strong>Pitney Bowes Inc.</strong></td>
-                    <td className="tg-dvpl"><strong>June 2019 - August 2019</strong></td>
-                  </tr>
-                  <tr>
-                    <td className="tg-0pky">Android Developer Intern</td>
-                    <td className="tg-dvpl"></td>
-                  </tr>
-                  <tr>
-                    <td className="tg-0pky"><strong>University at Buffalo CSE</strong></td>
-                    <td className="tg-dvpl"><strong>December 2018 - January 2019 </strong></td>
-                  </tr>
-                  <tr>
-                    <td className="tg-0pky">Research Assistance</td>
-                    <td className="tg-dvpl"></td>
-                  </tr>
-                  </tbody>
-                </table>
+                </h3>
+
+                <p>
+                  <strong>Pitney Bowes Inc.</strong><br/>
+                  <strong>Android Developer Intern</strong><br/>
+                June 2019 - August 2019<br/> <br/>
+
+                  <strong>University at Buffalo CSE</strong><br/>
+                  <strong>Mcahine Learning Research Assistance</strong><br/>
+                  December 2018 - January 2019<br/>
+                </p>
+
 
       </div>
     </div>

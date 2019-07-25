@@ -17,7 +17,7 @@ code {
 .tab{
   width: 100%;
       table-layout:fixed;
-      background-color: #282c5B;
+      background-color: #686868;
       font-family: "Lucida Console";
       color: #00FF00;
 }
@@ -26,6 +26,8 @@ code {
   max-width:100%;
    height:auto;
    vertical-align: middle;
+   box-shadow: 0px 5px #7A7A7A;
+
 }
 
 .portModText{
@@ -47,10 +49,10 @@ code {
 
 
 .leftDivPort{
-  width: 100%;;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;text-align: right;
+  width: 100%;;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;padding-bottom: 2px;text-align: right;
 }
 .rightDivPort{
-  width: 100%;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;
+  width: 100%;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;padding-bottom: 2px;
 }
 
 .port-container{

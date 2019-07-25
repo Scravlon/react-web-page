@@ -4,6 +4,7 @@ import './style/creative.css';
 
 import Home from './Home';
 import Skill from './Skills';
+
 import About from './AboutMe';
 import About1 from './AboutMeMob';
 
@@ -35,7 +36,9 @@ function App() {
         </div>
       </div>
       <div id="skill" className="skill-container">
-        <Skill />
+        <div className="skillPC">
+          <Skill />
+        </div>
       </div>
       <div id="portfolio" className="port-container">
         <div className="portContainer">

@@ -30,7 +30,7 @@ function Portf() {
             <td>
               <div className="rightDivPort">
                 <div className="portModText">
-                   <font color="red">Android App</font>
+                   <font color="red"><strong>Android App</strong></font>
                 <br/>
                   GreenLight
                 </div>
@@ -42,7 +42,7 @@ function Portf() {
             <td>
               <div className="leftDivPort">
                 <div className="portModText">
-                   <font color="red">Unity3D Game</font>
+                   <font color="red"><strong>Unity3D Game</strong></font>
                      <br/>
                   The Horizon
                 </div>
@@ -68,7 +68,7 @@ function Portf() {
             <td>
               <div className="rightDivPort">
                 <div className="portModText">
-                  <font color="red">Android App</font>
+                  <font color="red"><strong>Android App</strong></font>
                     <br/>
 
                   SplitMe
@@ -82,7 +82,7 @@ function Portf() {
             <td>
               <div className="leftDivPort">
                 <div className="portModText">
-                   <font color="red">Unity3D Game</font>
+                   <font color="red"><strong>Unity3D Game</strong></font>
                 <br/>
                   Snooze
                 </div>
@@ -109,7 +109,7 @@ function Portf() {
               <div className="rightDivPort">
 
                 <div className="portModText">
-                 <font color="red">Android App</font>
+                 <font color="red"><strong>Android App</strong></font>
               <br/>
                 CreditCardWallet
               </div>
@@ -121,7 +121,7 @@ function Portf() {
             <td>
               <div className="leftDivPort">
                 <div className="portModText">
-                 <font color="red">Unity3D Game</font>
+                 <font color="red"><strong>Unity3D Game</strong></font>
               <br/>
                 Periodically Falls
               </div>

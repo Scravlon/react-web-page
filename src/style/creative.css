@@ -139,18 +139,19 @@ display:none;
 .codeMob{
   margin-left: 30px;
 }
+.port-container{
+  margin-top: 1px;
+}
+
+.contact-container{
+  background-color: #FFFFFF;
+}
+.copyright-container{
+  background-color: #FFFFFF;
+}
 @media (max-width: 576px) {
-  .port-container{
-    margin-top: 1px;
-  }
   body{
     background-color: #686868;
-  }
-  .contact-container{
-    background-color: #FFFFFF;
-  }
-  .copyright-container{
-    background-color: #FFFFFF;
   }
   .lia{
     font-family: "Lucida Console";

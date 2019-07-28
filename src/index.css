@@ -11,9 +11,7 @@ code {
   font-family: "Lucida Console",
     monospace;
 }
-.about-container{
 
-}
 .tab{
   width: 100%;
       table-layout:fixed;
@@ -29,7 +27,9 @@ code {
    box-shadow: 0px 5px #7A7A7A;
 
 }
-
+.portMobcolor{
+  background-color: #aaaaaa;
+}
 .portModText{
   margin: 10px;
 }
@@ -39,7 +39,7 @@ code {
     align-items: center;
   display: flex;
   justify-content: center;
-  min-height: 65vh;
+  min-height: 70vh;
   background-color: #282c34;
   color: #00FF00;
 }
@@ -55,9 +55,6 @@ code {
   width: 100%;font-size:12px;font-weight:normal;overflow:hidden;word-break:normal;border: 0px;padding-bottom: 2px;
 }
 
-.port-container{
-  background-color: #AAAAAA;
-}
 .contact-container{
   float: center;
   align-items: center;

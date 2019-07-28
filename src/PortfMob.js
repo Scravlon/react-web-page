@@ -8,7 +8,7 @@ import nfclogo from './images/nfclogo.png';
 
 function Portf() {
   return (
-    <div>
+    <div className="pportMob">
       <table className="tab" cellPadding="0" border="0" align="center" cellSpacing="0">
         <tbody>
 

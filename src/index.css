@@ -43,7 +43,9 @@ code {
   min-height: 70vh;
   background-color: #282c34;
   color: #00FF00;
+  font-size: 17px;
 }
+
 .tab p{
   font-size: 12px;
 }

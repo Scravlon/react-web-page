@@ -77,8 +77,8 @@ function About() {
             <td className="tg-dvpl"></td>
           </tr>
           <tr>
-            <td className="tg-0pky"><strong>University at Buffalo CSE</strong></td>
-            <td className="tg-dvpl"><strong>December 2018 - January 2019 </strong></td>
+            <th className="tg-0pky"><strong>University at Buffalo CSE</strong></th>
+            <th className="tg-dvpl"><strong>December 2018 - January 2019 </strong></th>
           </tr>
           <tr>
             <td className="tg-0pky">Research Assistant</td>

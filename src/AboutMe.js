@@ -70,7 +70,7 @@ function About() {
         <tbody>
           <tr>
             <th className="tg-0pky"><strong>Pitney Bowes Inc.</strong></th>
-            <th className="tg-dvpl"><strong>June 2019 - August 2019</strong></th>
+            <th className="tg-dvpl"><strong>June 2019 - Current</strong></th>
           </tr>
           <tr>
             <td className="tg-0pky">Android Developer Intern</td>

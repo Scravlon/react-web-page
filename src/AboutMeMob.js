@@ -55,7 +55,7 @@ function About() {
                 <p>
                   <strong>Pitney Bowes Inc.</strong><br/>
                   <strong>Android Developer Intern</strong><br/>
-                June 2019 - August 2019<br/> <br/>
+                June 2019 - Current<br/> <br/>
 
                   <strong>University at Buffalo CSE</strong><br/>
                   <strong>Mcahine Learning Research Assistance</strong><br/>

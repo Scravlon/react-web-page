@@ -6,7 +6,7 @@ function CP() {
     <div>
       <hr width="15%" color="black"/>
 
-    <p>Copyright © 2019 - Kevin Yong</p>
+    <p>Copyright © 2019 - Kevin Yong - React</p>
     </div>
   );
 }

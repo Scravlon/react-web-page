@@ -26,7 +26,7 @@ function Contact() {
     <a href="https://play.google.com/store/apps/developer?id=Scravlon">
     <FaGooglePlay/>
     </a>&nbsp;
-    <a href="mailto:haokokyong@gmail.com">
+    <a href="mailto:haokokyong10@gmail.com">
     <FaMailBulk/>
     </a>
     </h1>

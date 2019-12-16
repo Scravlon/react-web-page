@@ -2,6 +2,7 @@ import React from 'react';
 import './AboutMe.css';
 import mepic from './images/mepic.jpg';
 import resume from './docs/kevin-resume.pdf';
+import { FaChevronCircleDown } from 'react-icons/fa';
 
 import { FaGithubSquare } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
@@ -13,7 +14,7 @@ function About() {
   return (
         <React.Fragment>
     <div className="aboutContainer">
-      <div className="About">
+      <div className="About" id ="aboutid">
   <table >
     <tbody>
       <tr>
@@ -54,7 +55,7 @@ function About() {
             <tbody>
               <tr>
                 <th className="tg-0pky"><strong>University at Buffalo, SUNY</strong></th>
-                <th className="tg-dvpl"><strong>Expected Graduate: Winter 2019</strong></th>
+                <th className="tg-dvpl"><strong>Graduated: Winter 2019</strong></th>
               </tr>
               <tr>
                 <td className="tg-0pky">Bachelor of Science, Computer Science</td>
@@ -70,7 +71,7 @@ function About() {
         <tbody>
           <tr>
             <th className="tg-0pky"><strong>Pitney Bowes Inc.</strong></th>
-            <th className="tg-dvpl"><strong>June 2019 - Current</strong></th>
+            <th className="tg-dvpl"><strong>June 2019 - Dec 2019</strong></th>
           </tr>
           <tr>
             <td className="tg-0pky">Android Developer Intern</td>
@@ -94,7 +95,9 @@ function About() {
 
   </table>
       </div>
+
     </div>
+
         </React.Fragment>
   );
 }

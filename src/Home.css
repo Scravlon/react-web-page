@@ -1,0 +1,22 @@
+
+@keyframes jump {
+  0% { top: 0; } 50% { top: 10px; } 100% { top: 0; }
+}
+
+#arrow-down {
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  animation: jump 2s infinite;
+    svg {
+      content: '\f0a8';
+      font-family: 'FontAwesome';
+      font-size: 80px;
+      transition: .3s ease-in-out;
+  }
+    svg:hover {
+      opacity: 0.7;
+      transition: .3s ease-in-out;
+  }
+}

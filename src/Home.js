@@ -1,5 +1,7 @@
 import React from 'react';
 import './Home.css';
+import darrow from './images/darrow.png'
+import { FaChevronCircleDown } from 'react-icons/fa';
 
 function HOME() {
   return (
@@ -8,10 +10,14 @@ function HOME() {
         <h1>
           Kevin Yong
         </h1>
-        <p>Android Developer</p>
+        <p>Software Developer</p>
         <p>B.S. Computer Science - University at Buffalo (SUNY)</p>
       </header>
-    </div>
+      <dir className="App-down">
+        <dir id="arrow-down"><FaChevronCircleDown/></dir>
+
+        </dir>
+  </div>
   );
 }
 

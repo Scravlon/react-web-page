@@ -44,7 +44,7 @@ function About() {
         <p>
           <strong>University at Buffalo, SUNY</strong><br/>
           <strong>Bachelor of Science, Computer Science</strong><br/>
-          Expected Graduate: Winter 2019<br/>
+          Graduated: Winter 2019<br/>
           Dean's List | GPA: 3.8/4.0
         </p>
 
@@ -55,7 +55,7 @@ function About() {
                 <p>
                   <strong>Pitney Bowes Inc.</strong><br/>
                   <strong>Android Developer Intern</strong><br/>
-                June 2019 - Current<br/> <br/>
+                June 2019 - Dec 2019<br/> <br/>
 
                   <strong>University at Buffalo CSE</strong><br/>
                   <strong>Mcahine Learning Research Assistance</strong><br/>

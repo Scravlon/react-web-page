@@ -5,9 +5,7 @@ import snooze from './images/snooze.png';
 import splitme from './images/splitme.png';
 import period from './images/1.png';
 import nfclogo from './images/nfclogo.png';
-
-
-
+import cropshop from './images/cropshop.png';
 
 function Portf() {
   return (
@@ -30,15 +28,15 @@ function Portf() {
              </a>
            </div>
            <div className="col-lg-4 col-sm-6">
-             <a className="portfolio-box" href="https://github.com/Scravlon/The-Horizon">
-             <img className="img-fluid"src={horizon} alt="me" width="225px" height="300px" />
+             <a className="portfolio-box" href="https://github.com/cse442-fall-2019-offering/442projects-ol-mcdonald">
+             <img className="img-fluid"src={cropshop} alt="me" width="225px" height="300px" />
 
                <div className="portfolio-box-caption">
                  <div className="project-category ">
-                   Unity3D Game
+                   Android Farmer Marketplace
                  </div>
                  <div className="project-name">
-                   The Horizon
+                   CropShop
                  </div>
                </div>
              </a>

@@ -5,6 +5,7 @@ import snooze from './images/snooze.png';
 import splitme from './images/splitme.png';
 import period from './images/1.png';
 import nfclogo from './images/nfclogo.png';
+import cropshop from './images/cropshop.png';
 
 function Portf() {
   return (
@@ -42,16 +43,16 @@ function Portf() {
             <td>
               <div className="leftDivPort">
                 <div className="portModText">
-                   <font color="red"><strong>Unity3D Game</strong></font>
+                   <font color="red"><strong>Android Farmer Marketplace</strong></font>
                      <br/>
-                  The Horizon
+                  CropShop
                 </div>
               </div>
             </td>
             <td>
               <div className="rightDivPort">
-                <a href="https://github.com/Scravlon/The-Horizon">
-                 <img src={horizon} alt="me"/>
+                <a href="https://github.com/cse442-fall-2019-offering/442projects-ol-mcdonald">
+                 <img src={cropshop} alt="me"/>
                 </a>
               </div>
             </td>

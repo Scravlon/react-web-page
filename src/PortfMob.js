@@ -61,7 +61,7 @@ function Portf() {
           <tr>
             <td>
               <div className="leftDivPort">
-                <a href="https://github.com/Scravlon/SplitMe">
+                <a href="https://play.google.com/store/apps/details?id=net.ddns.scravlon.splitmefull">
                  <img src={splitme} alt="me"/>
                 </a>
               </div>

@@ -42,7 +42,7 @@ function Portf() {
              </a>
            </div>
            <div className="col-lg-4 col-sm-6">
-             <a className="portfolio-box" href="https://github.com/Scravlon/SplitMe">
+             <a className="portfolio-box" href="https://play.google.com/store/apps/details?id=net.ddns.scravlon.splitmefull">
              <img className="img-fluid"src={splitme} alt="me" width="225px" height="300px" />
 
                <div className="portfolio-box-caption">

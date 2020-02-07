@@ -44,7 +44,7 @@ function About() {
         <p>
           <strong>University at Buffalo, SUNY</strong><br/>
           <strong>Bachelor of Science, Computer Science</strong><br/>
-          Graduated: Winter 2019<br/>
+          Aug 2017 - Dec 2019<br/>
           Dean's List | GPA: 3.8/4.0
         </p>
 

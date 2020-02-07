@@ -55,7 +55,7 @@ function About() {
             <tbody>
               <tr>
                 <th className="tg-0pky"><strong>University at Buffalo, SUNY</strong></th>
-                <th className="tg-dvpl"><strong>Graduated: Winter 2019</strong></th>
+                <th className="tg-dvpl"><strong>Aug 2017 - Dec 2019</strong></th>
               </tr>
               <tr>
                 <td className="tg-0pky">Bachelor of Science, Computer Science</td>

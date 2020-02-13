@@ -13,8 +13,8 @@ function HOME() {
         <p>Software Developer</p>
         <p>B.S. Computer Science - University at Buffalo (SUNY)</p>
       </header>
-      <dir className="App-down" style="text-decoration: none;color:white">
-        <dir id="arrow-down"><FaChevronCircleDown/></dir>
+      <dir className="App-down">
+        <dir id="arrow-down"><a href="#about" style="text-decoration: none;color:white"><FaChevronCircleDown/></a></dir>
 
         </dir>
   </div>

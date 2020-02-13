@@ -14,7 +14,7 @@ function HOME() {
         <p>B.S. Computer Science - University at Buffalo (SUNY)</p>
       </header>
       <dir className="App-down">
-        <dir id="arrow-down"><a href="#about" style="text-decoration: none;color:white"><FaChevronCircleDown/></a></dir>
+        <dir id="arrow-down"><a id="arrow-a" href="#about"><FaChevronCircleDown/></a></dir>
 
         </dir>
   </div>

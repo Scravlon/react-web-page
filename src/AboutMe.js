@@ -3,7 +3,7 @@ import './AboutMe.css';
 import mepic from './images/mepic.jpg';
 import resume from './docs/kevin-resume.pdf';
 import { FaChevronCircleDown } from 'react-icons/fa';
-
+import transcript from './docs/final.pdf';
 import { FaGithubSquare } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
 import { FaLinkedinIn } from 'react-icons/fa';
@@ -41,6 +41,9 @@ function About() {
               </a>
               <br/>
               <a href={resume}><button className="resumeBut">My Resume</button></a>
+                  &nbsp;
+                <a href={transcript}><button className="resumeBut">Transcript</button></a><br/>
+
           </p>
           <p>Email: haokokyong10@gmail.com</p>
           </div>

@@ -2,6 +2,7 @@ import React from 'react';
 import './AboutMe.css';
 import mepic from './images/mepic.jpg';
 import resume from './docs/kevin-resume.pdf';
+import transcript from './docs/final.pdf';
 import { FaGithubSquare } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
 import { FaLinkedinIn } from 'react-icons/fa';
@@ -35,7 +36,11 @@ function About() {
           </a>
           <br/>
           <a href={resume}><button className="resumeBut">My Resume</button></a><br/>
-        </p>
+            &nbsp;
+          <a href={transcript}><button className="resumeBut">Transcript</button></a><br/>
+
+      </p>
+
           <p>Email: haokokyong10@gmail.com</p>
 
         <h3>
@@ -44,7 +49,7 @@ function About() {
         <p>
           <strong>University at Buffalo, SUNY</strong><br/>
           <strong>Bachelor of Science, Computer Science</strong><br/>
-          Aug 2017 - Dec 2019<br/>
+          Graduated: Winter 2019<br/>
           Dean's List | GPA: 3.8/4.0
         </p>
 

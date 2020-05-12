@@ -10,7 +10,7 @@ function HOME() {
         <h1>
           Kevin Yong
         </h1>
-        <p>Software Developer</p>
+        <p>Software Engineer - DHL Infomation Service</p>
         <p>B.S. Computer Science - University at Buffalo (SUNY)</p>
       </header>
       <dir className="App-down">

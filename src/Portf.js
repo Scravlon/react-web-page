@@ -10,7 +10,6 @@ import cropshop from './images/cropshop.png';
 function Portf() {
   return (
     <div className="Skill">
-
     <section id="portfolio">
        <div className="container-fluid p-0">
          <div className="row no-gutters">

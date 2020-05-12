@@ -21,7 +21,6 @@ function About() {
         <th className="leftDiv">
           <div>
             <h2>About Me</h2>
-            <p>Software Developer</p>
             <img src={mepic} alt="me" width="250px" height="290px" />
             <p>
               <a href="https://twitter.com/Scravlon">
@@ -30,7 +29,7 @@ function About() {
               <a href="https://github.com/Scravlon">
                 <FaGithubSquare/>
               </a>&nbsp;
-              <a href="https://www.linkedin.com/in/kevin-yong-34363270/">
+              <a href="https://www.linkedin.com/in/scravlon">
                 <FaLinkedinIn/>
               </a>&nbsp;
               <a href="https://play.google.com/store/apps/developer?id=Scravlon">
@@ -73,16 +72,24 @@ function About() {
         <table className="tg">
         <tbody>
           <tr>
-            <th className="tg-0pky"><strong>Pitney Bowes Inc.</strong></th>
-            <th className="tg-dvpl"><strong>June 2019 - Dec 2019</strong></th>
+            <th className="tg-0pky"><strong>DHL Information Services</strong></th>
+            <th className="tg-dvpl"><strong>Apr 2020 - Current</strong></th>
+          </tr>
+          <tr>
+            <td className="tg-0pky">Software Engineer</td>
+            <td className="tg-dvpl"></td>
+          </tr>
+          <tr>
+            <th className="tg-0pky">Pitney Bowes Inc.</th>
+            <th className="tg-dvpl">Jun 2019 - Dec 2019</th>
           </tr>
           <tr>
             <td className="tg-0pky">Android Developer Intern</td>
             <td className="tg-dvpl"></td>
           </tr>
           <tr>
-            <th className="tg-0pky"><strong>University at Buffalo CSE</strong></th>
-            <th className="tg-dvpl"><strong>December 2018 - January 2019 </strong></th>
+            <th className="tg-0pky">University at Buffalo CSE</th>
+            <th className="tg-dvpl">Dec 2018 - Jan 2019 </th>
           </tr>
           <tr>
             <td className="tg-0pky">Research Assistant</td>

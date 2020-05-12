@@ -25,7 +25,7 @@ function About() {
           <a href="https://github.com/Scravlon">
             <FaGithubSquare/>
           </a>&nbsp;
-          <a href="https://www.linkedin.com/in/kevin-yong-34363270/">
+          <a href="https://www.linkedin.com/in/scravlon">
             <FaLinkedinIn/>
           </a>&nbsp;
           <a href="https://play.google.com/store/apps/developer?id=Scravlon">
@@ -58,13 +58,16 @@ function About() {
                 </h3>
 
                 <p>
-                  <strong>Pitney Bowes Inc.</strong><br/>
-                  <strong>Android Developer Intern</strong><br/>
-                June 2019 - Dec 2019<br/> <br/>
+                  <strong>DHL Information Services</strong><br/>
+                    Software Engineer<br/>
+                  Apr 2020 - Current<br/><br/>
+              <strong>Pitney Bowes Inc.</strong><br/>
+                  Android Developer Intern<br/>
+                Jun 2019 - Dec 2019<br/> <br/>
 
-                  <strong>University at Buffalo CSE</strong><br/>
-                  <strong>Mcahine Learning Research Assistance</strong><br/>
-                  December 2018 - January 2019<br/>
+              <strong>University at Buffalo CSE</strong><br/>
+                Machine Learning Research Assistance<br/>
+                  Dec 2018 - Jan 2019<br/>
                 </p>
 
 

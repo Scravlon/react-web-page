@@ -15,7 +15,7 @@ function Portf() {
          <div className="row no-gutters">
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://github.com/Scravlon/GreenLight">
-              <img className="img-fluid" src={greenlight} alt="me" width="225px" height="300px" />
+              <img className="img-fluid" src={greenlight} alt="me" width="225px" height="100%" />
                <div className="portfolio-box-caption">
                  <div className="project-category">
                     Buffalo Innovation Challenge 2019
@@ -28,7 +28,7 @@ function Portf() {
            </div>
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://github.com/cse442-fall-2019-offering/442projects-ol-mcdonald">
-             <img className="img-fluid"src={cropshop} alt="me" width="225px" height="300px" />
+             <img className="img-fluid"src={cropshop} alt="me" width="225px" height="100%" />
 
                <div className="portfolio-box-caption">
                  <div className="project-category ">
@@ -42,7 +42,7 @@ function Portf() {
            </div>
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://play.google.com/store/apps/details?id=net.ddns.scravlon.splitmefull">
-             <img className="img-fluid"src={splitme} alt="me" width="225px" height="300px" />
+             <img className="img-fluid"src={splitme} alt="me" width="225px" height="100%" />
 
                <div className="portfolio-box-caption">
                  <div className="project-category ">
@@ -56,7 +56,7 @@ function Portf() {
            </div>
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://play.google.com/store/apps/details?id=com.scravlon.snooze">
-             <img className="img-fluid"src={snooze} alt="me" width="225px" height="300px" />
+             <img className="img-fluid"src={snooze} alt="me" width="225px" height="100%" />
 
                <div className="portfolio-box-caption">
                  <div className="project-category ">
@@ -70,7 +70,7 @@ function Portf() {
            </div>
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://github.com/Scravlon/CreditCardWallet">
-             <img className="img-fluid"src={nfclogo} alt="me" width="225px" height="300px" />
+             <img className="img-fluid"src={nfclogo} alt="me" width="225px" height="100%" />
 
                <div className="portfolio-box-caption">
                  <div className="project-category ">
@@ -84,7 +84,7 @@ function Portf() {
            </div>
            <div className="col-lg-4 col-sm-6">
              <a className="portfolio-box" href="https://github.com/Scravlon/Periodically-Falls">
-             <img className="img-fluid"src={period} alt="me" width="225px" height="300px" />
+             <img className="img-fluid"src={period} alt="me" width="225px" height="100%" />
 
                <div className="portfolio-box-caption p-3">
                  <div className="project-category ">

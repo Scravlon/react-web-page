@@ -163,10 +163,7 @@ display:none;
     text-align: center;
     padding: 12px 7px;
   }
-    .portContainer{display:none;}
-    .portContainer1{display: block;}
-    .aboutContainer {display:none;}
-    .aboutContainer1{display: block;}
+
     .skillMob{display:block;}
     .skillPC{display: none;}
 

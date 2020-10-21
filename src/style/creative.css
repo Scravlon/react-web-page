@@ -164,6 +164,8 @@ display:none;
     padding: 12px 7px;
   }
 
+  .aboutContainer {display:none;}
+  .aboutContainer1{display: block;}
     .skillMob{display:block;}
     .skillPC{display: none;}
 
